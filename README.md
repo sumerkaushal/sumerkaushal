@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sumerkaushal
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me sumerkaushal.singh@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
 <!---
